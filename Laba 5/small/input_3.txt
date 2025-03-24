@@ -1,0 +1,5 @@
+Ivanov Ivan 5
+Petrov Petr 3
+Sidorova Anna 4
+Sokolov Aleksandr 6
+Sokolova Maria 2
