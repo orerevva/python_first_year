@@ -1,0 +1,5 @@
+userId,jobTitle,firstName,lastName,employeeCode,region,phoneNumber,emailAddress
+henry,CTO,Henry,Adams,E11,CA,2109876543,henry.adams@example.com
+carla,Marketing Lead,Carla,Brown,E6,FL,7654321098,carla.brown@example.com
+frank,QA Engineer,Frank,Garcia,E9,TX,4321098765,frank.garcia@example.com
+jack,Security Officer,Jack,Turner,E13,WA,9988776655,jack.turner@example.com

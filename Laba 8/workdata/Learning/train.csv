@@ -1,0 +1,10 @@
+userId,jobTitle,firstName,lastName,employeeCode,region,phoneNumber,emailAddress
+tin,Program Directory,tin,jonson,E3,CA,2222222,tin.jonson@learningcontainer.com
+krish,Developer,Krish,Lee,E1,CA,123456,krish.lee@learningcontainer.com
+emma,Developer,Emma,Wong,E8,CA,5432109876,emma.wong@example.com
+devid,Developer,Devid,Rome,E2,CA,1111111,devid.rome@learningcontainer.com
+alice,HR Manager,Alice,Walker,E4,NY,9876543210,alice.walker@example.com
+bob,Data Analyst,Bob,Smith,E5,TX,8765432109,bob.smith@example.com
+grace,Product Manager,Grace,Martinez,E10,IL,3210987654,grace.martinez@example.com
+irene,Support Specialist,Irene,Cooper,E12,NJ,1098765432,irene.cooper@example.com
+david,UI/UX Designer,David,Lee,E7,WA,6543210987,david.lee@example.com
