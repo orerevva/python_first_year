@@ -1,2 +1,2 @@
 # python_first_year
-Laba 1-6
+Laba 1-10
